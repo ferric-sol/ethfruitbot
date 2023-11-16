@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "nodenext",
+    "rootDir": "./api",
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true,
+    "outDir": "./build",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": false,
+    "skipLibCheck": true,
+  }
+}
